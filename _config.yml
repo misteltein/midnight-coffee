@@ -1,2 +1,4 @@
 sitemap.xml:
   path: /sitemap.xml
+_nuxt:
+  path: _nuxt

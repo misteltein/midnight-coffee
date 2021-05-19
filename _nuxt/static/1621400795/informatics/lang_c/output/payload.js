@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/informatics/lang_c/output", {data:[{}],fetch:{},mutations:[]});
